@@ -1,4 +1,10 @@
-This is your new Play 2.0 application
-=====================================
+This is the Play 2.0 Todo tutorial app with Twitter Bootstrap 
+styling and Bootswatch United theme
 
-This file will be packaged with your application, when using `play dist`.
+This is running on Heroku at:
+http://pacific-garden-1664.herokuapp.com/tasks
+
+References
+http://www.playframework.org/documentation/2.0.4/JavaTodoList
+http://twitter.github.com/bootstrap/
+http://bootswatch.com/united/
